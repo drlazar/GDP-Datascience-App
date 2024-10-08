@@ -1,1 +1,6 @@
 streamlit
+bs4
+lxml
+plotly.express
+pandas
+numpy
