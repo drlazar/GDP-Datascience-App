@@ -1,0 +1,235 @@
+"country","continent","unMember"
+"India","Asia",true
+"China","Asia",true
+"United States","North America",true
+"Indonesia","Asia",true
+"Pakistan","Asia",true
+"Nigeria","Africa",true
+"Brazil","South America",true
+"Bangladesh","Asia",true
+"Russia","Asia, Europe",true
+"Ethiopia","Africa",true
+"Mexico","North America",true
+"Japan","Asia",true
+"Egypt","Africa",true
+"Philippines","Asia",true
+"DR Congo","Africa",true
+"Vietnam","Asia",true
+"Iran","Asia",true
+"Turkey","Asia",true
+"Germany","Europe",true
+"Thailand","Asia",true
+"United Kingdom","Europe",true
+"Tanzania","Africa",true
+"France","Europe",true
+"South Africa","Africa",true
+"Italy","Europe",true
+"Kenya","Africa",true
+"Myanmar","Asia",true
+"Colombia","South America",true
+"South Korea","Asia",true
+"Sudan","Africa",true
+"Uganda","Africa",true
+"Spain","Europe",true
+"Algeria","Africa",true
+"Iraq","Asia",true
+"Argentina","South America",true
+"Afghanistan","Asia",true
+"Yemen","Asia",true
+"Canada","North America",true
+"Poland","Europe",true
+"Morocco","Africa",true
+"Angola","Africa",true
+"Ukraine","Europe",true
+"Uzbekistan","Asia",true
+"Malaysia","Asia",true
+"Mozambique","Africa",true
+"Ghana","Africa",true
+"Peru","South America",true
+"Saudi Arabia","Asia",true
+"Madagascar","Africa",true
+"Ivory Coast","Africa",true
+"Nepal","Asia",true
+"Cameroon","Africa",true
+"Venezuela","South America",true
+"Niger","Africa",true
+"Australia","Oceania",true
+"North Korea","Asia",true
+"Syria","Asia",true
+"Mali","Africa",true
+"Burkina Faso","Africa",true
+"Taiwan","Asia",false
+"Sri Lanka","Asia",true
+"Malawi","Africa",true
+"Zambia","Africa",true
+"Kazakhstan","Asia",true
+"Chad","Africa",true
+"Chile","South America",true
+"Romania","Europe",true
+"Somalia","Africa",true
+"Senegal","Africa",true
+"Guatemala","North America",true
+"Netherlands","Europe",true
+"Ecuador","South America",true
+"Cambodia","Asia",true
+"Zimbabwe","Africa",true
+"Guinea","Africa",true
+"Benin","Africa",true
+"Rwanda","Africa",true
+"Burundi","Africa",true
+"Bolivia","South America",true
+"Tunisia","Africa",true
+"South Sudan","Africa",true
+"Haiti","North America",true
+"Belgium","Europe",true
+"Jordan","Asia",true
+"Dominican Republic","North America",true
+"United Arab Emirates","Asia",true
+"Cuba","North America",true
+"Honduras","North America",true
+"Czech Republic","Europe",true
+"Sweden","Europe",true
+"Tajikistan","Asia",true
+"Papua New Guinea","Oceania",true
+"Portugal","Europe",true
+"Azerbaijan","Asia",true
+"Greece","Europe",true
+"Hungary","Europe",true
+"Togo","Africa",true
+"Israel","Asia",true
+"Austria","Europe",true
+"Belarus","Europe",true
+"Switzerland","Europe",true
+"Sierra Leone","Africa",true
+"Laos","Asia",true
+"Turkmenistan","Asia",true
+"Hong Kong","Asia",false
+"Libya","Africa",true
+"Kyrgyzstan","Asia",true
+"Paraguay","South America",true
+"Nicaragua","North America",true
+"Bulgaria","Europe",true
+"Serbia","Europe",true
+"El Salvador","North America",true
+"Republic of the Congo","Africa",true
+"Denmark","Europe",true
+"Singapore","Asia",true
+"Lebanon","Asia",true
+"Finland","Europe",true
+"Liberia","Africa",true
+"Norway","Europe",true
+"Slovakia","Europe",true
+"Palestine","Asia",true
+"Central African Republic","Africa",true
+"Oman","Asia",true
+"Ireland","Europe",true
+"New Zealand","Oceania",true
+"Mauritania","Africa",true
+"Costa Rica","North America",true
+"Kuwait","Asia",true
+"Panama","North America",true
+"Croatia","Europe",true
+"Georgia","Asia",true
+"Eritrea","Africa",true
+"Mongolia","Asia",true
+"Uruguay","South America",true
+"Puerto Rico","North America",false
+"Bosnia and Herzegovina","Europe",true
+"Qatar","Asia",true
+"Moldova","Europe",true
+"Namibia","Africa",true
+"Armenia","Asia",true
+"Lithuania","Europe",true
+"Jamaica","North America",true
+"Albania","Europe",true
+"Gambia","Africa",true
+"Gabon","Africa",true
+"Botswana","Africa",true
+"Lesotho","Africa",true
+"Guinea-Bissau","Africa",true
+"Slovenia","Europe",true
+"Equatorial Guinea","Africa",true
+"Latvia","Europe",true
+"North Macedonia","Europe",true
+"Bahrain","Asia",true
+"Trinidad and Tobago","North America",true
+"Timor-Leste","Asia",true
+"Estonia","Europe",true
+"Cyprus","Europe",true
+"Mauritius","Africa",true
+"Eswatini","Africa",true
+"Djibouti","Africa",true
+"Fiji","Oceania",true
+"Reunion","Africa",false
+"Comoros","Africa",true
+"Guyana","South America",true
+"Solomon Islands","Oceania",true
+"Bhutan","Asia",true
+"Macau","Asia",false
+"Luxembourg","Europe",true
+"Montenegro","Europe",true
+"Suriname","South America",true
+"Western Sahara","Africa",false
+"Malta","Europe",true
+"Maldives","Asia",true
+"Cape Verde","Africa",true
+"Brunei","Asia",true
+"Belize","North America",true
+"Bahamas","North America",true
+"Iceland","Europe",true
+"Guadeloupe","North America",false
+"Martinique","North America",false
+"Vanuatu","Oceania",true
+"Mayotte","Africa",false
+"French Guiana","South America",false
+"New Caledonia","Oceania",false
+"Barbados","North America",true
+"French Polynesia","Oceania",false
+"Sao Tome and Principe","Africa",true
+"Samoa","Oceania",true
+"Curacao","North America",false
+"Saint Lucia","North America",true
+"Guam","Oceania",false
+"Kiribati","Oceania",true
+"Seychelles","Africa",true
+"Grenada","North America",true
+"Micronesia","Oceania",true
+"Aruba","North America",false
+"Tonga","Oceania",true
+"Jersey","Europe",false
+"Saint Vincent and the Grenadines","North America",true
+"Antigua and Barbuda","North America",true
+"United States Virgin Islands","North America",false
+"Isle of Man","Europe",false
+"Andorra","Europe",true
+"Cayman Islands","North America",false
+"Dominica","North America",true
+"Bermuda","North America",false
+"Guernsey","Europe",false
+"Greenland","North America",false
+"Faroe Islands","Europe",false
+"Saint Kitts and Nevis","North America",true
+"American Samoa","Oceania",false
+"Turks and Caicos Islands","North America",false
+"Northern Mariana Islands","Oceania",false
+"Sint Maarten","North America",false
+"Liechtenstein","Europe",true
+"British Virgin Islands","North America",false
+"Gibraltar","Europe",false
+"Monaco","Europe",true
+"Marshall Islands","Oceania",true
+"San Marino","Europe",true
+"Saint Martin","North America",false
+"Palau","Oceania",true
+"Anguilla","North America",false
+"Cook Islands","Oceania",false
+"Nauru","Oceania",true
+"Wallis and Futuna","Oceania",false
+"Saint Barthelemy","North America",false
+"Tuvalu","Oceania",true
+"Saint Pierre and Miquelon","North America",false
+"Montserrat","North America",false
+"Falkland Islands","South America",false
+"Tokelau","Oceania",false
+"Niue","Oceania",false
+"Vatican City","Europe",true
